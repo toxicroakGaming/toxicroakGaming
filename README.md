@@ -1,4 +1,4 @@
-### Toxicroak_Gaming's Github Profile
+# Toxicroak_Gaming's Github Profile
 
 ### Hi everyone! I am Nick (otherwise known as Toxicroak_Gaming) and I am a computer scientist working on many innovative and fun projects!
 ### My goal is to create projects that will be personally fufilling and inspiring to others.
