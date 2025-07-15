@@ -1,15 +1,18 @@
 # Toxicroak_Gaming's Github Profile
 
-### Hi everyone! I am Nick (otherwise known as Toxicroak_Gaming) and I am a computer scientist working on many innovative and fun projects!
-### My goal is to create projects that will be personally fufiling and inspiring to others.
-### I pursued a degree in Computer Science from the University of Texas at Austin and Graduated May 10, 2025
+## Hi everyone! I am Nick (otherwise known as Toxicroak_Gaming) and I am a computer scientist working on many innovative and fun projects!
+## My goal is to create projects that will be personally fufiling and inspiring to others.
+## I graduated from the University of Texas at Austin with a degree in Computer Science
+## on May 10, 2025
 ## 😄 Pronouns: 🙋‍♂️ He/Him
+
 
 ## 🔭 I’m currently working on:
 - 🏎️ An AI model in Python named [MK_AI](https://github.com/toxicroakGaming/MK_AI) that trains an AI model to play Mario Kart Double Dash
 - 🎮 An application in Python using tkinter named [game_tracker](https://github.com/toxicroakGaming/Game_Tracker) that helps you keep track of your gaming backlog
 - 👾 A game in Java under the repo name [Adventure-Game](https://github.com/toxicroakGaming/Adventure-Game) that is a RPG in development
 - 🃏 A [Balatro](https://www.playbalatro.com/) fan game in Java named [Balatro_clone](https://github.com/toxicroakGaming/balatro_clone). 
+
 
 ## 🌱 I’m currently learning:
 - How to create AI agents for various tasks
@@ -25,6 +28,7 @@
 - [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#) Godot Engine
 - [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#) Unity
 
+
 ## 🖥️ I'm Proficient in:
 - [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) C++
 - [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) C
@@ -33,6 +37,7 @@
 - [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#) Swift
 - [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) Pandas
 - [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) Scikit-learn
+
 
 ## 💬 Ask me about:
 - 🎓 My experiences at UT Austin
@@ -48,6 +53,7 @@
 - [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) : toxicroaksr
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) : [Work E-mail](mailto:nickpannell22@utexas.edu)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) : [Personal E-mail](mailto:nickpannell22@gmail.com)
+
 
 ## ⚡ Fun fact: 
    I am a world record holder! I have the fastest completion time of SpongeBob Squarepants: Revenge of the Flying Dutchman
