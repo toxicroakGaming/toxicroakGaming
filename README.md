@@ -15,7 +15,7 @@
 - How to create AI agents for various tasks
 - [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) R
 - [![Clojure](https://img.shields.io/badge/Clojure-5881D8?logo=clojure&logoColor=fff)](#) Clojure
-- [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) HTML/CSS
+- [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) HTML/CSS
 - [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) React
 - [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) SQL
 - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) JavaScript
