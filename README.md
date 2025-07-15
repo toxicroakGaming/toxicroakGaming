@@ -6,10 +6,10 @@
 
 
 ## 🔭 I’m currently working on:
-- An AI model in Python named [MK_AI](https://github.com/toxicroakGaming/MK_AI) that trains an AI model to play Mario Kart Double Dash
-- An application in Python using tkinter named [game_tracker](https://github.com/toxicroakGaming/Game_Tracker) that helps you keep track of your gaming backlog
-- A game in Java under the repo name [Adventure-Game](https://github.com/toxicroakGaming/Adventure-Game) that is a RPG in development
-- A [Balatro](https://www.playbalatro.com/) fan game in Java named [Balatro_clone](https://github.com/toxicroakGaming/balatro_clone). 
+- 🏎️ An AI model in Python named [MK_AI](https://github.com/toxicroakGaming/MK_AI) that trains an AI model to play Mario Kart Double Dash
+- 🎮 An application in Python using tkinter named [game_tracker](https://github.com/toxicroakGaming/Game_Tracker) that helps you keep track of your gaming backlog
+- 👾 A game in Java under the repo name [Adventure-Game](https://github.com/toxicroakGaming/Adventure-Game) that is a RPG in development
+- 🃏 A [Balatro](https://www.playbalatro.com/) fan game in Java named [Balatro_clone](https://github.com/toxicroakGaming/balatro_clone). 
 
 ## 🌱 I’m currently learning:
 - How to create AI agents for various tasks
@@ -25,7 +25,7 @@
 - [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#) Godot Engine
 - [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#) Unity
 
-## I'm Proficient in:
+## 🖥️ I'm Proficient in:
 - [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) C++
 - [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) C
 - [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) Java
@@ -35,13 +35,13 @@
 - [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) Scikit-learn
 
 ## 💬 Ask me about:
-- My experiences at UT Austin
-- Passions outside of tech
+- 🎓 My experiences at UT Austin
+- 🚀 Passions outside of tech
 
-## Past Projects
-- [JTetris](https://github.com/toxicroakGaming/JTetris), a Python program inspired by the game Tetris. I might come back to this in the far future
-- [ICardz](https://github.com/toxicroakGaming/iCardz-app), a project in Swift that is a fun casino game developed with a group as part of an IOS Class
-- [Calculator](https://github.com/toxicroakGaming/Calculator), a simple calculator I made to test my skills with Java and Swing
+## ✏️ Past Projects
+- 🟦 [JTetris](https://github.com/toxicroakGaming/JTetris), a Python program inspired by the game Tetris. I might come back to this in the far future
+- 🎰 [ICardz](https://github.com/toxicroakGaming/iCardz-app), a project in Swift that is a fun casino game developed with a group as part of an IOS Class
+- 🔢 [Calculator](https://github.com/toxicroakGaming/Calculator), a simple calculator I made to test my skills with Java and Swing
 
 
 ## 📫 How to reach me:
@@ -49,7 +49,7 @@
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) : [Work E-mail](mailto:nickpannell22@utexas.edu)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) : [Personal E-mail](mailto:nickpannell22@gmail.com)
 
-## 😄 Pronouns: He/Him
+## 😄 Pronouns: 🙋‍♂️ He/Him
 
 ## ⚡ Fun fact: 
    I am a world record holder! I have the fastest completion time of SpongeBob Squarepants: Revenge of the Flying Dutchman
