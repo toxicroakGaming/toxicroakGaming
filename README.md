@@ -56,7 +56,7 @@
 
 ## ⚡ Fun fact: 
    I am a world record holder! I have the fastest completion time of SpongeBob Squarepants: Revenge of the Flying Dutchman
-   ever recorded in 
+   ever recorded in  
    1 hour 29 minutes and 7 seconds! [Here is a link to the full run](https://www.speedrun.com/rotfd/runs/zpko25vy)
 <!--
 **toxicroakGaming/toxicroakGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
