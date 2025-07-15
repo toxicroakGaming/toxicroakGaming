@@ -43,8 +43,8 @@
 - 🚀 Passions outside of tech
 
 ## ✏️ Past Projects
-- 🟦 [JTetris](https://github.com/toxicroakGaming/JTetris), a Python program inspired by the game Tetris. I might come back to this in the far future
-- 🎰 [ICardz](https://github.com/toxicroakGaming/iCardz-app), a project in Swift that is a fun casino game developed with a group as part of an IOS Class
+- 🟦 [JTetris](https://github.com/toxicroakGaming/JTetris), a Python program inspired by the game Tetris
+- 🎰 [ICardz](https://github.com/toxicroakGaming/iCardz-app), a project in Swift that is a fun casino game developed with a group as part of an iOS Class
 - 🔢 [Calculator](https://github.com/toxicroakGaming/Calculator), a simple calculator I made to test my skills with Java and Swing
 
 
@@ -56,7 +56,7 @@
 
 ## ⚡ Fun fact: 
    I am a world record holder! I have the fastest completion time of SpongeBob Squarepants: Revenge of the Flying Dutchman
-   ever recorded!
+   ever recorded in 1:29:07! (Here is a link to the full run)[https://www.speedrun.com/rotfd/runs/zpko25vy]
 <!--
 **toxicroakGaming/toxicroakGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
