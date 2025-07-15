@@ -3,7 +3,7 @@
 ### Hi everyone! I am Nick (otherwise known as Toxicroak_Gaming) and I am a computer scientist working on many innovative and fun projects!
 ### My goal is to create projects that will be personally fufiling and inspiring to others.
 ### I pursued a degree in Computer Science from the University of Texas at Austin and Graduated May 10, 2025
-
+## 😄 Pronouns: 🙋‍♂️ He/Him
 
 ## 🔭 I’m currently working on:
 - 🏎️ An AI model in Python named [MK_AI](https://github.com/toxicroakGaming/MK_AI) that trains an AI model to play Mario Kart Double Dash
@@ -48,8 +48,6 @@
 - [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) : toxicroaksr
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) : [Work E-mail](mailto:nickpannell22@utexas.edu)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) : [Personal E-mail](mailto:nickpannell22@gmail.com)
-
-## 😄 Pronouns: 🙋‍♂️ He/Him
 
 ## ⚡ Fun fact: 
    I am a world record holder! I have the fastest completion time of SpongeBob Squarepants: Revenge of the Flying Dutchman
