@@ -1,6 +1,6 @@
 # Toxicroak_Gaming's Github Profile
 
-## Hi everyone! I am Nick (otherwise known as Toxicroak_Gaming) and I am a computer scientist working on many innovative and fun projects!
+## Hi everyone! I am Nick (otherwise known as Toxicroak_Gaming) and I am a Computer Scientist working on many innovative and fun projects!
 ## My goal is to create projects that will be personally fufiling and inspiring to others.
 ## I graduated from the University of Texas at Austin with a degree in Computer Science on May 10, 2025
 ## 😄 Pronouns: 🙋‍♂️ He/Him
