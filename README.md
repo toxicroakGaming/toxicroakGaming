@@ -4,7 +4,7 @@
 ## My goal is to create projects that will be personally fufiling and inspiring to others.
 ## I graduated from the University of Texas at Austin with a degree in Computer Science on May 10, 2025
 ## 😄 Pronouns: 🙋‍♂️ He/Him
-
+## THIS IS MY PERSONAL GITHUB
 
 ## 🔭 I’m currently working on:
 - 🏎️ An AI model in Python named [MK_AI](https://github.com/toxicroakGaming/MK_AI) that trains an AI model to play Mario Kart Double Dash
