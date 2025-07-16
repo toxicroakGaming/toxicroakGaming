@@ -10,7 +10,8 @@
 - 🏎️ An AI model in Python named [MK_AI](https://github.com/toxicroakGaming/MK_AI) that trains an AI model to play Mario Kart Double Dash
 - 🎮 An application in Python using tkinter named [game_tracker](https://github.com/toxicroakGaming/Game_Tracker) that helps you keep track of your gaming backlog
 - 👾 A game in Java under the repo name [Adventure-Game](https://github.com/toxicroakGaming/Adventure-Game) that is a RPG in development
-- 🃏 A [Balatro](https://www.playbalatro.com/) fan game in Java named [Balatro_clone](https://github.com/toxicroakGaming/balatro_clone). 
+- 🃏 A [Balatro](https://www.playbalatro.com/) fan game in Java named [Balatro_clone](https://github.com/toxicroakGaming/balatro_clone).
+- An RPG in C# using MonoGame
 
 
 ## 🌱 I’m currently learning:
